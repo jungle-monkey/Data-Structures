@@ -1,1 +1,1 @@
-
+Doubly-linked lists implementation.
