@@ -1,1 +1,1 @@
-
+Implementation of Wordle. Wordle is a game of words where one player knows a 5 letter word while the other player (or group of players) guesses what it is. They may guess whole 5 letter words. Each time a guess is wrong, the guessing player gets a hint. The hint includes which letters were correct and in the correct location and which letters were correct but misplaced. The game is won if the correct word is guessed. The game is lost after 5 wrong guesses.
